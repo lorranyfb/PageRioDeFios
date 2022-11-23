@@ -6,7 +6,7 @@
 }
 body {
     font-size: 100%;
-    background: linear-gradient(68.15deg, #8F4C35 16.62%, #3f4e3b 85.61%);
+    background: linear-gradient(68.15deg, #639965 16.62%, #45643d 85.61%);
 }
 .cabecalho {
     display: flex;
@@ -24,12 +24,12 @@ body {
 }
 .item-menu {
     font-family: 'Righteous', cursive;
-    color: #eeeeee;
+    color: white;
     font-weight: 400px;
     font-size: 18px;
 }
 .conteudo {
-    border-top: 0.4px solid #eeeeee;
+    border-top: 0.4px solid white;
     margin-bottom: 48px;
 }
 .conteudo-principal {
@@ -47,18 +47,18 @@ div {
     font-family: 'Righteous', cursive;
     font-weight: 400;
     font-size: 64px;
-    color: #eeeeee;
+    color: white;
   }
   
   .subtitulo-principal {
     font-family: 'Sarala', sans-serif;
     font-weight: 400;
     font-size: 24px;
-    color: #fff0e3;
+    color: white;
   }
 
 .botao {
-    background-color: #ececec;
+    background-color: white;
     width: 180px;
     height: 60px;
     border: none;
@@ -86,7 +86,7 @@ div {
   }
   
   .titulo-secundario {
-    border-top: 0.4px solid #eeeeee;;
+    border-top: 0.4px solid white;
     padding-top: 48px;
     font-family: 'Righteous', cursive;
     font-weight: 400;
@@ -99,30 +99,9 @@ div {
     font-family: 'Sarala', sans-serif;
     font-weight: 300;
     font-size: 18px;
-    color: #fff0e3;
+    color: white;
   }
-  .conteudo-terce {
-    display: inline;
-    flex-direction: row;
-    align-items: center;
-    gap: 30px;
-    margin-top: 30px;
-  }
-  .titulo-terce {
-    border-top: 0.4px solid #eeeeee;;
-    padding-top: 48px;
-    font-family: 'Righteous', cursive;
-    font-weight: 400;
-    font-size: 24px;
-    color: #eeeeee;
-    margin-bottom: 16px;
-  }
-  .paragrafo2 {
-    font-family: 'Sarala', sans-serif;
-    font-weight: 300;
-    font-size: 18px;
-    color: #fff0e3;
-  }
+  
   .rodape {
       padding: 32px;
       border-top: 0.4px solid #FFF2E7;
